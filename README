@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3682
+
+This script may be manually sourced or, if placed in .vim/ftplugin/c/, will be automatically sourced whenever a C or C++ file is edited.
+
+The purpose of this script is to show the prototype for any opengl function everytime its name is typed.
+
+This script is heavily based on vimscript#1826.
